@@ -31,7 +31,13 @@ ___
     <td>4</td>
     <td>04_04_2022</td>
     <td> <a href="https://github.com/bfokss/cdv-ml/tree/main/04_lab" target="_blank">Lab 4 </a> </td>
-    <td> <a href="https://github.com/bfokss/cdv-ml/blob/main/04_lab/04_lab_zadania.ipynb" target="_blank">Ex. 4 </a> </td>
+    <td> <a href="https://github.com/bfokss/cdv-ml/blob/main/04_lab/deep_deep_racer_reward_function.ipynb" target="_blank">Ex. 4 </a> </td>
+</tr>
+<tr>
+    <td>5</td>
+    <td>11_04_2022</td>
+    <td> <a href="https://github.com/bfokss/cdv-ml/tree/main/05_lab" target="_blank">Lab 5 </a> </td>
+    <td> <a href="https://github.com/bfokss/cdv-ml/blob/main/05_lab/05_lab_zadania.ipynb" target="_blank">Ex. 5 </a> </td>
 </tr>
 </tbody>
 </table>

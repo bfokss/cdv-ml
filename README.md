@@ -39,6 +39,12 @@ ___
     <td> <a href="https://github.com/bfokss/cdv-ml/tree/main/05_lab" target="_blank">Lab 5 </a> </td>
     <td> <a href="https://github.com/bfokss/cdv-ml/blob/main/05_lab/05_lab_zadania.ipynb" target="_blank">Ex. 5 </a> </td>
 </tr>
+<tr>
+    <td>6</td>
+    <td>25_04_2022</td>
+    <td> <a href="https://github.com/bfokss/cdv-ml/tree/main/06_lab" target="_blank">Lab 6 </a> </td>
+    <td> <a href="https://github.com/bfokss/cdv-ml/blob/main/06_lab/06_lab_zadania.ipynb" target="_blank">Ex. 6 </a> </td>
+</tr>
 </tbody>
 </table>
 

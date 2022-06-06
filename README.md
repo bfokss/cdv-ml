@@ -52,10 +52,22 @@ ___
     <td> <a href="https://github.com/bfokss/cdv-ml/blob/main/07_lab/07_lab_zadania.ipynb" target="_blank">Ex. 7 </a> </td>
 </tr>
 <tr>
-    <td>7</td>
+    <td>8</td>
     <td>23_05_2022</td>
     <td> <a href="https://github.com/bfokss/cdv-ml/tree/main/08_lab" target="_blank">Lab 8 </a> </td>
     <td> <a href="https://github.com/bfokss/cdv-ml/blob/main/08_lab/08_lab_zadania.ipynb" target="_blank">Ex. 8 </a> </td>
+</tr>
+<tr>
+    <td>9</td>
+    <td>30_05_2022</td>
+    <td> <a href="https://github.com/bfokss/cdv-ml/tree/main/09_lab" target="_blank">Lab 9 </a> </td>
+    <td> <a href="https://github.com/bfokss/cdv-ml/blob/main/09_lab/09_lab_zadania.ipynb" target="_blank">Ex. 9 </a> </td>
+</tr>
+<tr>
+    <td>10</td>
+    <td>06_06_2022</td>
+    <td> <a href="https://github.com/bfokss/cdv-ml/tree/main/10_lab" target="_blank">Lab 10 </a> </td>
+    <td> <a href="https://github.com/bfokss/cdv-ml/blob/main/10_lab/10_lab_zadania.ipynb" target="_blank">Ex. 10 </a> </td>
 </tr>
 </tbody>
 </table>

@@ -11,15 +11,15 @@ After downloading all contents of this repository just run:
 `pip install -r requirements.txt`
 
 ___
-### Inside of <a href="" target=”_blank”>`user_data`</a> folder you can find 2 files: <br><br>
+### Inside of <a href="https://github.com/bfokss/cdv-ml/tree/main/11_lab_project/user_data" target=”_blank”>`user_data`</a> folder you can find 2 files: <br><br>
 
     1. summoner_name.txt
     2. summoner_region.txt
 
-In <a href="" target=”_blank”> `summoner_name.txt` </a> you need to pass your League of Legends username. <br>
+In <a href="https://github.com/bfokss/cdv-ml/blob/main/11_lab_project/user_data/summoner_name.txt" target=”_blank”> `summoner_name.txt` </a> you need to pass your League of Legends username. <br>
 *Without special characters and newlines*
 
-In <a href="" target=”_blank”> `summoner_region.txt` </a> you need to pass your League of Legends account region. <br>
+In <a href="https://github.com/bfokss/cdv-ml/blob/main/11_lab_project/user_data/summoner_region.txt" target=”_blank”> `summoner_region.txt` </a> you need to pass your League of Legends account region. <br>
 You can choose from:
 
 1. BR1

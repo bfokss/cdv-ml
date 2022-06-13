@@ -1,4 +1,6 @@
 # This is CDV Machine learning class repository
+
+In last Laboratory you can find my final project. :nerd_face:
 ___
 
 <table>
@@ -68,6 +70,12 @@ ___
     <td>06_06_2022</td>
     <td> <a href="https://github.com/bfokss/cdv-ml/tree/main/10_lab" target="_blank">Lab 10 </a> </td>
     <td> <a href="https://github.com/bfokss/cdv-ml/blob/main/10_lab/10_lab_zadania.ipynb" target="_blank">Ex. 10 </a> </td>
+</tr>
+<tr>
+    <td>11</td>
+    <td>13_06_2022</td>
+    <td> <a href="https://github.com/bfokss/cdv-ml/tree/main/11_lab_project" target="_blank">Lab 11 Project </a> </td>
+    <td> <a href="https://github.com/bfokss/cdv-ml/tree/main/11_lab_project/11_lab_projekt.ipynb" target="_blank">Project </a> </td>
 </tr>
 </tbody>
 </table>
